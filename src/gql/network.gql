@@ -1,0 +1,16 @@
+query listNetworks {
+  listNetworks(filter: {platform: "doramasgo"}, sort: NUMBER_DESC, limit: 30) {
+    _id
+    name
+    slug
+    __typename
+  }
+}
+query detailNetwork($slug: String!) {
+  detailNetwork(filter: {slug: $slug}) {
+    _id
+    name
+    slug
+    __typename
+  }
+}

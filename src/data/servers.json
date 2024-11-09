@@ -1,0 +1,331 @@
+[
+  {
+    "_id": "60ac0abeac46a43f59a5b21b",
+    "name": "Ok",
+    "slug": "ok",
+    "app": true,
+    "domains": [
+      "ok.ru"
+    ],
+    "code_flix": "1113",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0d08ac46a43f59a5b21d",
+    "name": "Mixdrop",
+    "slug": "mixdrop",
+    "app": true,
+    "domains": [
+      "mixdrop.co",
+      "mixdrop.sx",
+      "mixdrop.to",
+      "mixdrop.ch",
+      "mdfx9dc8n.net",
+      "mixdrop.ag",
+      "mixdrop.ms",
+      "mixdrop.is"
+    ],
+    "code_flix": "3889",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0e7eac46a43f59a5b21e",
+    "name": "Dood",
+    "slug": "dood",
+    "app": true,
+    "domains": [
+      "doodstream.com",
+      "dood.to",
+      "dood.la",
+      "dood.so",
+      "dood.ws",
+      "dood.sh",
+      "dood.yt",
+      "dood.re",
+      "dooood.com",
+      "dood.wf",
+      "dood.pm",
+      "doods.pro",
+      "ds2play.com",
+      "ds2play.com",
+      "ds2play.com",
+      "ds2video.com",
+      "d0o0d.com",
+      "do0od.com",
+      "d0000d.com",
+      "d000d.com",
+      "dood.li"
+    ],
+    "code_flix": "7286",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0eb8ac46a43f59a5b21f",
+    "name": "Streamtape",
+    "slug": "streamtape",
+    "app": true,
+    "domains": [
+      "streamtape.com",
+      "streamtape.to",
+      "scloud.online",
+      "streamtapeadblock.art"
+    ],
+    "code_flix": "8309",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0f0eac46a43f59a5b220",
+    "name": "Voe",
+    "slug": "voe",
+    "app": true,
+    "domains": [
+      "voe.sx",
+      "scatch176duplicities.com",
+      "bradleyviewdoctor.com",
+      "johntryopen.com",
+      "roberteachfinal.com"
+    ],
+    "code_flix": "1230",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0f2eac46a43f59a5b221",
+    "name": "Uqload",
+    "slug": "uqload",
+    "app": true,
+    "domains": [
+      "uqload.com",
+      "uqload.org",
+      "uqload.co",
+      "uqload.io",
+      "uqload.to",
+      "uqload.ws"
+    ],
+    "code_flix": "1233",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0f52ac46a43f59a5b222",
+    "name": "Mp4Upload",
+    "slug": "mp4upload",
+    "app": true,
+    "domains": [
+      "mp4upload.com"
+    ],
+    "code_flix": "1234",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac0f9dac46a43f59a5b223",
+    "name": "UpStream",
+    "slug": "upstream",
+    "app": true,
+    "domains": [
+      "upstream.to"
+    ],
+    "code_flix": "14463",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac118fac46a43f59a5b224",
+    "name": "ED HD",
+    "slug": "ed-hd",
+    "app": false,
+    "domains": [
+      "repro3.estrenosdoramas"
+    ],
+    "code_flix": "1237",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac11ddac46a43f59a5b225",
+    "name": "ED Movil",
+    "slug": "ed-movil",
+    "app": false,
+    "domains": [
+      "repro3.estrenosdoramas"
+    ],
+    "code_flix": "1238",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac1223ac46a43f59a5b226",
+    "name": "StreamSB",
+    "slug": "streamsb",
+    "app": false,
+    "domains": [
+      "sbembed1.com",
+      "streamsb.net",
+      "sbplay.one",
+      "playersb.com",
+      "tubesb.com",
+      "cloudemb.com",
+      "embedsb.com",
+      "sbplay1.com",
+      "sbplay2.com",
+      "watchsb.com",
+      "sbfast.live",
+      "streamsss.net",
+      "sbrapid.com",
+      "likessb.com"
+    ],
+    "code_flix": "1239",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ac124eac46a43f59a5b227",
+    "name": "Mystream",
+    "slug": "mystream",
+    "app": false,
+    "domains": [
+      "mystream.com"
+    ],
+    "code_flix": "2671",
+    "__typename": "Server"
+  },
+  {
+    "_id": "60ec746e9b0423ff3730d005",
+    "name": "HD+",
+    "slug": "hd",
+    "app": true,
+    "domains": [
+      "pelisplus.icu"
+    ],
+    "code_flix": "1999",
+    "__typename": "Server"
+  },
+  {
+    "_id": "61686934d2df7a15277270d8",
+    "name": "Dailymotion",
+    "slug": "dailymotion",
+    "app": true,
+    "domains": [
+      "dailymotion.com"
+    ],
+    "code_flix": "85740",
+    "__typename": "Server"
+  },
+  {
+    "_id": "61707703fa461256758155c5",
+    "name": "Mega",
+    "slug": "mega",
+    "app": true,
+    "domains": [
+      "mega.nz"
+    ],
+    "code_flix": "453634",
+    "__typename": "Server"
+  },
+  {
+    "_id": "6171f291fa46125675815c32",
+    "name": "Amazon",
+    "slug": "amazon",
+    "app": true,
+    "domains": [
+      "animefenix.com"
+    ],
+    "code_flix": "765758",
+    "__typename": "Server"
+  },
+  {
+    "_id": "645d43f861f7898bc97665cd",
+    "name": "Vudeo",
+    "slug": "vudeo",
+    "app": true,
+    "domains": [
+      "vudeo.co",
+      "vudeo.ws"
+    ],
+    "code_flix": "55532",
+    "__typename": "Server"
+  },
+  {
+    "_id": "64aa29821dddd96d7800b3d5",
+    "name": "VIP",
+    "slug": "vip",
+    "app": true,
+    "domains": [
+      "okru.link"
+    ],
+    "code_flix": "0808",
+    "__typename": "Server"
+  },
+  {
+    "_id": "64aa32941dddd96d7800b495",
+    "name": "Streamlare",
+    "slug": "streamlare",
+    "app": true,
+    "domains": [
+      "streamlare.com",
+      "slmaxed.com"
+    ],
+    "code_flix": "0807",
+    "__typename": "Server"
+  },
+  {
+    "_id": "64b18fdc35461c5d64ef5b59",
+    "name": "Streamwish",
+    "slug": "streamwish",
+    "app": true,
+    "domains": [
+      "streamwish.to",
+      "wishembed.pro",
+      "embedwish.com",
+      "wishfast.top",
+      "embedwish.com",
+      "sfastwish.com",
+      "flaswish.com",
+      "obeywish.com",
+      "flastwish.com",
+      "cdnwish.com",
+      "asnwish.com",
+      "jodwish.com",
+      "swhoi.com",
+      "swdyu.com",
+      "strwish.com",
+      "wishonly.site"
+    ],
+    "code_flix": "38585",
+    "__typename": "Server"
+  },
+  {
+    "_id": "64b19a4035461c5d64ef5b84",
+    "name": "Filemoon",
+    "slug": "filemoon",
+    "app": true,
+    "domains": [
+      "filemoon.sx",
+      "moonplayer.lat",
+      "embedmoon.pro",
+      "moonembed.xyz",
+      "fmembed.cc"
+    ],
+    "code_flix": "958695",
+    "__typename": "Server"
+  },
+  {
+    "_id": "64b1b01335461c5d64ef5b8b",
+    "name": "Wolfstream",
+    "slug": "wolfstream",
+    "app": true,
+    "domains": [
+      "wolfstream.tv"
+    ],
+    "code_flix": "754645645",
+    "__typename": "Server"
+  },
+  {
+    "_id": "65c6b7f9149d4675d1547a5c",
+    "name": "VidHide",
+    "slug": "vidhd",
+    "app": true,
+    "domains": [
+      "filelions.top",
+      "vidhidepro.com",
+      "vidhidevip.com",
+      "vidhidepre.com"
+    ],
+    "code_flix": "576857",
+    "__typename": "Server"
+  }
+]

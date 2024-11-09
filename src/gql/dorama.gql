@@ -1,0 +1,82 @@
+query detailDorama($slug: String!) {
+  detailDorama(filter: {slug: $slug}) {
+    _id
+    name
+    slug
+    cast
+    names
+    age_limit
+    country
+    number_of_seasons
+    number_of_episodes
+    episode_time
+    name_es
+    overview
+    languages
+    poster_path
+    backdrop_path
+    rating
+    first_air_date
+    isTVShow
+    premiere
+    poster
+    trailer
+    backdrop
+    uploaders
+    subbers
+    schedule {
+      startEmision
+      endEmision
+      days
+      hour
+      season
+      episode
+      __typename
+    }
+    genres {
+      name
+      slug
+      __typename
+    }
+    labels {
+      name
+      slug
+      __typename
+    }
+    __typename
+  }
+}
+query paginationDorama(
+  $page: Int
+  $perPage: Int
+  $sort: SortFindManyDoramaInput
+  $filter: FilterFindManyDoramaInput
+) {
+  paginationDorama(
+    page: $page
+    perPage: $perPage
+    sort: $sort
+    filter: $filter
+  ) {
+    count
+    pageInfo {
+      currentPage
+      hasNextPage
+      hasPreviousPage
+      __typename
+    }
+    items {
+      _id
+      name
+      name_es
+      languages
+      slug
+      rating
+      backdrop_path
+      isTVShow
+      backdrop
+      __typename
+    }
+    __typename
+  }
+}

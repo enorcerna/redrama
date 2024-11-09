@@ -1,0 +1,38 @@
+query listGenres {
+  listGenres(filter: {platform: "doramasgo"}, sort: NUMBER_DESC) {
+    _id
+    name
+    slug
+    id
+    updatedAt
+    number_of_series
+    number_of_doramas
+    number_of_movies
+    number_of_animes
+    number_of_films
+    description
+    types
+    images
+    images_doramas
+    __typename
+  }
+}
+query detailGenre($slug: String!) {
+  detailGenre(filter: {slug: $slug}) {
+    _id
+    name
+    slug
+    id
+    updatedAt
+    number_of_series
+    number_of_doramas
+    number_of_movies
+    number_of_animes
+    number_of_films
+    description
+    types
+    images
+    images_doramas
+    __typename
+  }
+}

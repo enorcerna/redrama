@@ -1,0 +1,11 @@
+query detailLangugue($slug: String!) {
+  detailLangugue(filter: {slug: $slug}) {
+    _id
+    name
+    slug
+    flag
+    code
+    code_flix
+    __typename
+  }
+}

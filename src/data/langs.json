@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "60ac291aac46a43f59a5b22a",
+    "name": "Latino",
+    "slug": "latino",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
+    "code": "es",
+    "code_flix": "38",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac29f3ac46a43f59a5b22b",
+    "name": "Castellano",
+    "slug": "castellano",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png",
+    "code": "es",
+    "code_flix": "37",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2a2fac46a43f59a5b22c",
+    "name": "Subtitulado",
+    "slug": "subtitulado",
+    "flag": "https://i.postimg.cc/GtNKKmgg/145499942-banderas-de-dos-estados-de-m-xico-y-estados-unidos-conocimiento-empresarial-de-alta-calida.jpg",
+    "code": "en",
+    "code_flix": "192",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2a5fac46a43f59a5b22d",
+    "name": "Coreano",
+    "slug": "coreano",
+    "flag": "https://i.postimg.cc/wx4kV3VZ/Coreano-Sub-SPA.png",
+    "code": "ko",
+    "code_flix": "13109",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2ab0ac46a43f59a5b22e",
+    "name": "Japones",
+    "slug": "japones",
+    "flag": "https://i.postimg.cc/qvyX4wTH/Japones-Sub-SPA.png",
+    "code": "ja",
+    "code_flix": "13110",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2adfac46a43f59a5b22f",
+    "name": "Mandarín",
+    "slug": "mandarin",
+    "flag": "https://i.postimg.cc/sxb7RQH2/Mandarin-Sub-SPA.png",
+    "code": "zh",
+    "code_flix": "13111",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2b10ac46a43f59a5b230",
+    "name": "Tailandes",
+    "slug": "tailandes",
+    "flag": "https://i.postimg.cc/j5gyZkzP/Tailandes-Sub-SPA.png",
+    "code": "th",
+    "code_flix": "13112",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2b47ac46a43f59a5b231",
+    "name": "Filipino",
+    "slug": "filipino",
+    "flag": "https://i.postimg.cc/ZK9xDZsR/Filipino-Sub-SPA.png",
+    "code": "fil",
+    "code_flix": "13113",
+    "__typename": "Language"
+  },
+  {
+    "_id": "60ac2b7cac46a43f59a5b232",
+    "name": "Indones",
+    "slug": "indones",
+    "flag": "https://i.postimg.cc/wTScCPnk/Indonesia-Sub-SPA.png",
+    "code": "id",
+    "code_flix": "13114",
+    "__typename": "Language"
+  },
+  {
+    "_id": "63651d53f481956b04db11d5",
+    "name": "Inglés",
+    "slug": "ingles",
+    "flag": "https://i.postimg.cc/GtNKKmgg/145499942-banderas-de-dos-estados-de-m-xico-y-estados-unidos-conocimiento-empresarial-de-alta-calida.jpg",
+    "code": "en",
+    "code_flix": "36",
+    "__typename": "Language"
+  },
+  {
+    "_id": "636c6a5404102fc263d8d305",
+    "name": "Vietnamita",
+    "slug": "vietnamita",
+    "flag": "https://i.postimg.cc/c1zQ321N/Vietnamita-Sub-SPA.png",
+    "code": "VNM",
+    "code_flix": "343422",
+    "__typename": "Language"
+  },
+  {
+    "_id": "64bad14b3cdb8dd0a7032619",
+    "name": "Portugués",
+    "slug": "portugues",
+    "flag": "https://i.postimg.cc/Twwtdb0j/Coreano-Sub-Portugues.png",
+    "code": "ptbr",
+    "code_flix": "1327",
+    "__typename": "Language"
+  },
+  {
+    "_id": "65f9a6a211c8c777e9808fde",
+    "name": "Malayo",
+    "slug": "malayo",
+    "flag": "https://i.postimg.cc/pTXDQtnP/Malasio-Sub-SPA.png",
+    "code": "Mly",
+    "code_flix": "75453",
+    "__typename": "Language"
+  },
+  {
+    "_id": "669a8ca6ae97d64b35c2c2ab",
+    "name": "Portugues sub español",
+    "slug": "portugues-sub-espanol",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+    "code": "BR",
+    "code_flix": "657567",
+    "__typename": "Language"
+  },
+  {
+    "_id": "669a8d1fae97d64b35c2c2ac",
+    "name": "Portugues Sub Español",
+    "slug": "portugues-sub-espanol",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+    "code": "BR",
+    "code_flix": "43645",
+    "__typename": "Language"
+  },
+  {
+    "_id": "66b3ffaf22de73a6e4ab2a50",
+    "name": "Taiwanés ",
+    "slug": "taiwanes",
+    "flag": "https://i.postimg.cc/j5ynmdjk/flag-taiwan-mexico-3d-illustration-260nw-1769870546.jpg",
+    "code": "TA",
+    "code_flix": "13110",
+    "__typename": "Language"
+  },
+  {
+    "_id": "66b45f2f22de73a6e4ab2a87",
+    "name": "Taiwán",
+    "slug": "taiwan",
+    "flag": "https://i.postimg.cc/Kj1BVrNV/Taiwanes-Sub-SPA.png",
+    "code": "Tw",
+    "code_flix": "13115",
+    "__typename": "Language"
+  }
+]
